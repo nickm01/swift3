@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='Intro'/>
+        <page name='Remove C Loops, ++'/>
+        <page name='Grand Renaming'/>
+        <page name='GCD'/>
+        <page name='Core Graphics'/>
+        <page name='Parameter Labels'/>
+        <page name='Enum Capitalization '/>
+        <page name='Drop NS'/>
+        <page name='ObjC Constants &gt; Swift Types'/>
+        <page name='Abolish IUO Type'/>
+        <page name='Access Control'/>
+        <page name='Other'/>
+        <page name='Play'/>
+        <page name='Play2'/>
+    </pages>
+</playground>

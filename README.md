@@ -1,4 +1,4 @@
-# What's New in Swift 3
+# What's New in Swift 3 - Interactive Playground!
 
 - Swifty API: Grand Renaming
 - Better GCD & Core Graphics
